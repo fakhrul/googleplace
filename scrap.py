@@ -4,7 +4,7 @@ import json
 import pprint
 import csv
 
-API_KEY = 'AIzaSyAazCdclJEMO5XrsBPz2Ryfrj4c_BJmyts'
+API_KEY = 'PUT_YOUR_KEY'
 _mapsvc = googlemaps.Client(API_KEY)
 my_fields = ['name','formatted_phone_number','website','rating']
 
